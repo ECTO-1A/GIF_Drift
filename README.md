@@ -28,8 +28,8 @@ This Python application moves the mouse cursor randomly at random intervals and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/mouse-mover-gif-viewer.git
-   cd mouse-mover-gif-viewer
+   git clone https://github.com/ECTO-1A/GIF_Drift.git
+   cd GIF_Drift
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -153,4 +153,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Note**: An active internet connection is required to fetch GIFs from the provided URLs. If you encounter issues with fetching images, ensure your network connection is stable.
 
-For any questions or issues, please open an [issue](https://github.com/ECTO-1A/mouse-mover-gif-viewer/issues) in the repository.
+For any questions or issues, please open an [issue](https://github.com/ECTO-1A/GIF_Drift/issues) in the repository.
